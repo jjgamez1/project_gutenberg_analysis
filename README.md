@@ -13,12 +13,14 @@ Generates frequency counts of words that commonly appear near the target.
 Integrates with Google Colab and Google Drive for dataset storage and execution.
 
 Tools & Technologies:
+
 Python 3
 Google Colab (for execution environment)
 Google Drive (for file storage and access)
 Standard Python libraries: os, requests, datetime
 
 How It Works:
+
 A metadata.txt file provides the range of book IDs and user information.
 Example format:
 
